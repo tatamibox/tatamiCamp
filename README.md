@@ -1,2 +1,2 @@
 # tatamiCamp
-CRUD application built as a codealong for Colt Steele's Yelp Camp
+CRUD application built with Express and MongoDB
